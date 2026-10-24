@@ -1,0 +1,5 @@
+packaging
+pandas
+dash
+plotly
+httpx==0.20

@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv-*/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local virtual environment and cache data
+*.log
+.env
+.env.*
+!.env.example
+
+# Submitted archives are omitted because the unzipped project sources are included
+*.zip
